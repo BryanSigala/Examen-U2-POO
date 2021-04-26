@@ -16,7 +16,8 @@ public class ExamenU2POO {
         
         String Nombre, Sexo;
         int Edad;
-        
+        Prueba 1234
+           
     }
     
 }
