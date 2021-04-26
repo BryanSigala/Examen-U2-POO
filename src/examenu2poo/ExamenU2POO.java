@@ -17,6 +17,8 @@ public class ExamenU2POO {
         
         String Nombre, Sexo;
         int Edad;
+        
+        Nombre = JOptionPane.showInputDialog("Escriba su nombre: ");
      
     }
     
