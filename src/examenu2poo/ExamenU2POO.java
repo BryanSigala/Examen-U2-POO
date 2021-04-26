@@ -12,8 +12,7 @@ public class ExamenU2POO {
     /**
      * @param args the command line arguments
      */
-    public static void Prueba{
-    }
+  
     public static void main(String[] args) {
         
         String Nombre, Sexo;
